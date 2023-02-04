@@ -6,12 +6,12 @@
 1.	Data Gathering  :
 Assemble a sales reports with different visuals to best show the Sales Insights in one page Dashboard.
 
-1.	Sales (folder by year)
-2.	Categories (Excel)
-3.	Geography (Excel)
-4.	Product (CSV / Database)
-5.	SalesRep (Excel)
-6.	SubCategories (Excel)
+- Sales (folder by year)
+- Categories (Excel)
+- Geography (Excel)
+- Product (CSV / Database)
+- SalesRep (Excel)
+- SubCategories (Excel)
 
 
 2.	Data Transformation and Data Modeling:
